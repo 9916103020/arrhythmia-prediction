@@ -57,7 +57,9 @@ We plotted each and every beat obtained in the above step using the Matplotlib l
 ## Preprocessed Images
 
 ![](img/Processed_Image.PNG)
-![](img/V_type.PNG)
+
+![](img/V_Type.PNG)
+
 
 ### STEP 5:
 Since the data was limited, we used data augmentation to significantly increase the size and diversity of the image dataset. For data augmentation we use 9 different cropping techniques namely:
